@@ -10,6 +10,7 @@ namespace Git_Practice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("yes");
         }
     }
 }
